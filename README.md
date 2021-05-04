@@ -2,7 +2,7 @@
 https://github.com/TechCodec/
 
 # IPLogger
-## UN pequeño IP Logger con PHP
+## Un pequeño IP Logger con PHP
 ## Solo Es De Uso Educativo.
 
 # Instalación
